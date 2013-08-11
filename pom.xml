@@ -10,7 +10,7 @@
   
   <groupId>nz.ac.auckland.composite</groupId>
   <artifactId>composite-logging-jcl</artifactId>
-  <version>3.2</version>
+  <version>3.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>composite-logging-jcl</name>
@@ -22,7 +22,7 @@
     <url>https://github.com/uoa-group-applications/composite-logging-jcl</url>
     <connection>scm:git:https://github.com/uoa-group-applications/composite-logging-jcl.git</connection>
     <developerConnection>scm:git:git@github.com:uoa-group-applications/composite-logging-jcl.git</developerConnection>  
-    <tag>composite-logging-jcl-3.2</tag>
+    <tag>HEAD</tag>
   </scm>
   
   <dependencies>
